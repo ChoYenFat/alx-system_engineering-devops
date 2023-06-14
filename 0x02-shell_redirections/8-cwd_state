@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ' list all files and directories in the current working directory in long format, including hidden ones' >ls_cwd_content
+echo "ls -la" >ls_cwd_content
